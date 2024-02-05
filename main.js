@@ -10,7 +10,7 @@ $("#x").click(function() {
 })
 
 $("#steam").click(function() {
-    window.open("https://steamcommunity.com/id/trvnj/");
+    window.open("https://steamcommunity.com/id/czwx/");
 })
 
 // bio site by @trvnj
