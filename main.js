@@ -1,4 +1,4 @@
-// bio site by @trvnj
+// bio site by @czwx
 
 $("#discord").click(function (){
     navigator.clipboard.writeText("czwx.");
@@ -13,4 +13,4 @@ $("#steam").click(function() {
     window.open("https://steamcommunity.com/id/czwx/");
 })
 
-// bio site by @trvnj
+// bio site by @czwx
