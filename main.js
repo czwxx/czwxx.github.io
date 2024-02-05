@@ -1,7 +1,7 @@
 // bio site by @trvnj
 
 $("#discord").click(function (){
-    navigator.clipboard.writeText("trvnj");
+    navigator.clipboard.writeText("czwx.");
     $("#notification").fadeIn();
 })
 
