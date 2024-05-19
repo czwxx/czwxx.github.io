@@ -1,0 +1,92 @@
+body, html {
+    background-color: #111111;
+    color: rgb(231, 231, 231);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.container {
+    width: 40rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.texts {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.profilepicture {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 20rem;
+    height: 15rem;
+}
+
+h2, p {
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.buttons {
+    display: flex;
+    margin-left: 1rem;
+}
+
+i {
+    font-size: x-large;
+    color: white;
+}
+
+button {
+    border: none;
+    outline: none;
+    width: 5rem;
+    height: 3rem;
+    margin: 1%;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+#discord {
+    background-color: #7289DA;
+    transition-duration: 0.3s;
+}
+
+/* #discord:hover {
+    background-color: #6274b4;
+    transition-duration: 0.3s;
+} */
+
+#steam {
+    background-color: #1C60A5;
+    transition-duration: 0.3s;
+}
+
+/* #steam:hover {
+    background-color: #184e85;
+    transition-duration: 0.3s;
+} */
